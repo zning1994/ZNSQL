@@ -1,0 +1,190 @@
+# depslib dependency file v1.0
+1366855966 source:e:\code\mydbms\table.cpp
+	"Table.h"
+
+1366273894 e:\code\mydbms\table.h
+	"head.h"
+	"SQL.h"
+
+1366713154 e:\code\mydbms\head.h
+	<iostream>
+	<cstdio>
+	<cstring>
+	<cstdlib>
+	<vector>
+	<string>
+	<cctype>
+
+1366864555 e:\code\mydbms\sql.h
+	"head.h"
+	"Lexer.h"
+
+1366854899 source:e:\code\mydbms\main.cpp
+	"head.h"
+	"Lexer.h"
+
+1366864566 source:e:\code\mydbms\sql.cpp
+	"SQL.h"
+
+1366273959 source:e:\code\mydbms\workfunction.cpp
+	"head.h"
+	"Table.h"
+	"SQL.h"
+
+1366268552 source:e:\code\mydbms\emitter.cpp
+	"head.h"
+	"Table.h"
+	"SQL.h"
+
+1366856950 source:e:\code\mydbms\selecter.cpp
+	"head.h"
+	"Table.h"
+	"SQL.h"
+	"WorkFunction.h"
+
+1366460890 e:\code\mydbms\workfunction.h
+
+1366864555 source:e:\code\mydbms\lexer.cpp
+	"Lexer.h"
+
+1366858665 e:\code\mydbms\lexer.h
+	"head.h"
+
+1366864556 source:i:\数据库资料\mydbms\lexer.cpp
+	"Lexer.h"
+
+1366858666 i:\数据库资料\mydbms\lexer.h
+	"head.h"
+
+1366713156 i:\数据库资料\mydbms\head.h
+	<iostream>
+	<cstdio>
+	<cstring>
+	<cstdlib>
+	<vector>
+	<string>
+	<cctype>
+
+1366854900 source:i:\数据库资料\mydbms\main.cpp
+	"head.h"
+	"Lexer.h"
+
+1366856952 source:i:\数据库资料\mydbms\selecter.cpp
+	"head.h"
+	"Table.h"
+	"SQL.h"
+	"WorkFunction.h"
+
+1366273896 i:\数据库资料\mydbms\table.h
+	"head.h"
+	"SQL.h"
+
+1366864556 i:\数据库资料\mydbms\sql.h
+	"head.h"
+	"Lexer.h"
+
+1366460892 i:\数据库资料\mydbms\workfunction.h
+
+1366864568 source:i:\数据库资料\mydbms\sql.cpp
+	"SQL.h"
+
+1366855968 source:i:\数据库资料\mydbms\table.cpp
+	"Table.h"
+
+1366273960 source:i:\数据库资料\mydbms\workfunction.cpp
+	"head.h"
+	"Table.h"
+	"SQL.h"
+
+1437461928 source:i:\database\test\mydbms\lexer.cpp
+	"Lexer.h"
+
+1437459008 i:\database\test\mydbms\lexer.h
+	"head.h"
+
+1366713156 i:\database\test\mydbms\head.h
+	<iostream>
+	<cstdio>
+	<cstring>
+	<cstdlib>
+	<vector>
+	<string>
+	<cctype>
+
+1437461928 source:i:\database\test\mydbms\main.cpp
+	"head.h"
+	"Lexer.h"
+
+1437483790 source:i:\database\test\mydbms\selecter.cpp
+	"head.h"
+	"Table.h"
+	"SQL.h"
+	"WorkFunction.h"
+
+1437459020 i:\database\test\mydbms\table.h
+	"head.h"
+	"SQL.h"
+
+1437459016 i:\database\test\mydbms\sql.h
+	"head.h"
+	"Lexer.h"
+
+1366460892 i:\database\test\mydbms\workfunction.h
+
+1437461928 source:i:\database\test\mydbms\sql.cpp
+	"SQL.h"
+
+1437461928 source:i:\database\test\mydbms\table.cpp
+	"Table.h"
+
+1437461928 source:i:\database\test\mydbms\workfunction.cpp
+	"head.h"
+	"Table.h"
+	"SQL.h"
+
+1437487480 source:i:\test\mydbms\lexer.cpp
+	"Lexer.h"
+
+1437487696 i:\test\mydbms\lexer.h
+	"head.h"
+
+1366713156 i:\test\mydbms\head.h
+	<iostream>
+	<cstdio>
+	<cstring>
+	<cstdlib>
+	<vector>
+	<string>
+	<cctype>
+
+1437461928 source:i:\test\mydbms\main.cpp
+	"head.h"
+	"Lexer.h"
+
+1437487502 source:i:\test\mydbms\selecter.cpp
+	"head.h"
+	"Table.h"
+	"SQL.h"
+	"WorkFunction.h"
+
+1437487710 i:\test\mydbms\table.h
+	"head.h"
+	"SQL.h"
+
+1437487702 i:\test\mydbms\sql.h
+	"head.h"
+	"Lexer.h"
+
+1437487716 i:\test\mydbms\workfunction.h
+
+1437461928 source:i:\test\mydbms\sql.cpp
+	"SQL.h"
+
+1437485416 source:i:\test\mydbms\table.cpp
+	"Table.h"
+
+1437487682 source:i:\test\mydbms\workfunction.cpp
+	"head.h"
+	"Table.h"
+	"SQL.h"
+

@@ -1,0 +1,5 @@
+2 
+sno int sname char(90) 
+2
+201301050439 zhangsan 
+201301050439 'zhangsan' 
