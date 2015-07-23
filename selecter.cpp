@@ -49,7 +49,7 @@ void Select()
         dropTable (sql->Get(2));//drop table s
     else if (sql->Get(0) =="alter" && sql->Get(1) == "table")
         alterTable (sql);//alter table s (add name type)/(drop name type)
-    else if (sql->Get(0) =="delete" && sql->Get(1) == "from" && sql->Get(3) == "while")
+    else if (sql->Get(0) =="delete" && sql->Get(1) == "from" && sql->Get(3) == "where")
         deleteRecord(sql);//delete from s while name = name1
     else cout << "The code is error!" << endl;
 }

@@ -2,6 +2,8 @@
 1366855966 source:e:\code\mydbms\table.cpp
 	"Table.h"
 
+1437487682 
+
 1366273894 e:\code\mydbms\table.h
 	"head.h"
 	"SQL.h"
@@ -41,6 +43,8 @@
 	"Table.h"
 	"SQL.h"
 	"WorkFunction.h"
+
+1437487502 ion.h"
 
 1366460890 e:\code\mydbms\workfunction.h
 
@@ -184,6 +188,52 @@
 	"Table.h"
 
 1437487682 source:i:\test\mydbms\workfunction.cpp
+	"head.h"
+	"Table.h"
+	"SQL.h"
+
+1437612554 source:/Users/mac/Desktop/Git/ZNSQL/Lexer.cpp
+	"Lexer.h"
+
+1437612554 /Users/mac/Desktop/Git/ZNSQL/Lexer.h
+	"head.h"
+
+1437612554 /Users/mac/Desktop/Git/ZNSQL/head.h
+	<iostream>
+	<cstdio>
+	<cstring>
+	<cstdlib>
+	<vector>
+	<string>
+	<cctype>
+
+1437612554 source:/Users/mac/Desktop/Git/ZNSQL/main.cpp
+	"head.h"
+	"Lexer.h"
+
+1437613606 source:/Users/mac/Desktop/Git/ZNSQL/selecter.cpp
+	"head.h"
+	"Table.h"
+	"SQL.h"
+	"WorkFunction.h"
+
+1437612554 /Users/mac/Desktop/Git/ZNSQL/Table.h
+	"head.h"
+	"SQL.h"
+
+1437612554 /Users/mac/Desktop/Git/ZNSQL/SQL.h
+	"head.h"
+	"Lexer.h"
+
+1437612554 /Users/mac/Desktop/Git/ZNSQL/WorkFunction.h
+
+1437612554 source:/Users/mac/Desktop/Git/ZNSQL/SQL.cpp
+	"SQL.h"
+
+1437612554 source:/Users/mac/Desktop/Git/ZNSQL/Table.cpp
+	"Table.h"
+
+1437612554 source:/Users/mac/Desktop/Git/ZNSQL/WorkFunction.cpp
 	"head.h"
 	"Table.h"
 	"SQL.h"

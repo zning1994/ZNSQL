@@ -113,7 +113,7 @@ void Table :: cmInsert(SQL *sql)
     }
     else
     {
-        cout<<"Error: The number of values isn't equls to the number of attribute"<<endl;
+        cout<<"Error INSERT003: The number of values isn't equls to the number of attribute"<<endl;
         return;
     }
 }
@@ -238,7 +238,7 @@ void Table :: cmSave()
     }
     fclose(fp);
 
-    cout<<"Save success!"<<endl;
+    cout<<"Ok: Save success!"<<endl;
 }
 
 
@@ -290,6 +290,8 @@ void Table :: cmShow()
     cmDrawLine();
     for(int i = 0; i < cNum; i++)
     {
+        if (i != 0)
+            cout << "\t\t" ;
         cout << "|";
         cout << cName[i];
     }
